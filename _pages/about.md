@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "About me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,42 +17,46 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Guanglei Zhou is a Ph.D. student in computer engineering in Duke ECE Department under the supervision of [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen). He received his M.A.Sc degree in UofT ECE department under the supervision of [Prof. Jason Anderson](https://janders.eecg.utoronto.ca/). He received B.ENG from CityU HK in 2020. His research interests focus on machine learning applicataions in Electronic Design Automation, especially using generative methods.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+<!-- # 📖 Educations
+- *2020.08 - Present*, Ph.D. candidate in Computer Engineering at Duke University, Durham, NC, USA.
+- *2016.09 - 2022.09* M.A.Sc in Computer Engineering in University of Toronto, Toronto, ON, CA.
+- *2016.09 - 2020.06*, B.ENG in ECE at CityU. -->
 
+# 💻 Experiences
+- *2025.05 - 2023.08*, CAD Research Intern in [Intel Corp.](https://semiconductor.samsung.com/us/about-us/us-office/us-r-and-d-labs/memory-labs/), Hillsboro, Oregon, USA.
+- *2024.05 - 2024.08*, CAD Research Intern in [Intel Corp.](https://semiconductor.samsung.com/us/about-us/us-office/us-r-and-d-labs/memory-labs/),  Hillsboro, Oregon, USA.
+- *2023.05 - 2023.08*, CAD Research Intern in [Intel Corp.](https://semiconductor.samsung.com/us/about-us/us-office/us-r-and-d-labs/memory-labs/), Hillsboro, Oregon, USA.
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+  
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- ## First-author papers
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+  - [**DAC'25**] **Guanglei Zhou**, Bhargav Korrapati, Gaurav Rajavendra Reddy, Jiang Hu, Yiran Chen, and Dipto G. Thakurta, "PatternPaint: Practical Layout Pattern Generation Using Diffusion-Based Inpainting," *62nd ACM/IEEE Design Automation Conference (DAC)*, San Francisco, June 22-25, 2025.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+  - [**SPIE'25**] **Guanglei Zhou**, Bhargav Korrapati, Gaurav Rajavendra Reddy, Junyao Zhang, Yiran Chen, and Dipto G. Thakurta, "Vario: Enhance Pattern Diversity using Diffusion Model," *SPIE Advanced Lithography + Patterning*, San Jose, Feb. 23-27, 2025.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+  - [**FPL'23**] **Guanglei Zhou**, Mirjana Stojilović, and Jason H. Anderson, "[GRAMM: Fast CGRA Application Mapping Based on A Heuristic for Finding Graph Minors](https://ieeexplore.ieee.org/document/10296406)," *33rd International Conference on Field-Programmable Logic and Applications (FPL)*, Gothenburg, Sweden, 2023, pp. 305-310.
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+  - [**ASP-DAC'23**] **Guanglei Zhou** and Jason H. Anderson, "[Area-Driven FPGA Logic Synthesis Using Reinforcement Learning](https://dl.acm.org/doi/abs/10.1145/3566097.3567894)," *28th Asia and South Pacific Design Automation Conference (ASP-DAC)*, Jan 16–19, 2023, Tokyo, Japan.
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- ## Co-author papers
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+  - [**DATE'25**] Junyao Zhang, **Guanglei Zhou**, Feng Cheng, Jonathan Hao-Cheng Ku, Qi Ding, Jiaqi Gu, Hanrui Wang, Hai "Helen" Li, and Yiran Chen, "[qGDP: Quantum Legalization and Detailed Placement for Superconducting Quantum Computers](https://arxiv.org/abs/2411.02447)," *IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE)*, Lyon, France, Mar. 31–Apr. 02, 2025. (*Best Paper Nomination*)
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+  - [**ASP-DAC'25**] Chen-Chia Chang, Wan-Hsuan Lin, Jingyu Pan, **Guanglei Zhou**, Zhiyao Xie, Jiang Hu, and Yiran Chen, "PRICING: Privacy-Preserving Circuit Data Sharing Framework for Lithographic Hotspot Detection," *28th Asia and South Pacific Design Automation Conference (ASP-DAC)*, Jan 20–23, 2025, Tokyo, Japan.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+  - [**MICRO'23**] Edward Hanson, Shiyu Li, **Guanglei Zhou**, Feng Cheng, Yitu Wang, Rohan Bose, Hai Li, and Yiran Chen, "[Si-Kintsugi: Towards Recovering Golden-Like Performance of Defective Many-Core Spatial Architectures for AI](https://dl.acm.org/doi/10.1145/3613424.3614278)," *IEEE/ACM International Symposium on Microarchitecture (MICRO)*, Toronto, Oct. 28–Nov. 01, 2023.
+
+  - [**ICCAD'23**] Qijun Zhang, Shiyu Li, **Guanglei Zhou**, Jingyu Pan, Chen-Chia Chang, Yiran Chen, and Zhiyao Xie, "[PANDA: Architecture-Level Power Evaluation by Unifying Analytical and Machine Learning Solutions](https://ieeexplore.ieee.org/abstract/document/10323665)," *IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, San Francisco, Oct. 29–Nov. 02, 2023.
+
+
+- ## Survey
+  - "[A Survey: Collaborative Hardware and Software Design in the Era of Large Language Models](https://ieeexplore.ieee.org/abstract/document/10876858)". *IEEE Circuits and Systems Magazine ( Volume: 25, Issue: 1, 2025).*
+  - "[A Survey of Research in Large Language Models for Electronic Design Automation](https://dl.acm.org/doi/full/10.1145/3715324)". *ACM Transactions on Design Automation of Electronic Systems ( Volume: 30, Issue: 3, 2025).*
+
+
+# 👨‍💼 Services
+- Reviewer of ICCAD ICME.
