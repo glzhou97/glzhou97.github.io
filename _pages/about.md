@@ -34,7 +34,7 @@ Guanglei Zhou is a Ph.D. candidate in computer engineering in Duke ECE Departmen
 
 - ## First-author papers
 
-  - [**DAC'25**] **Guanglei Zhou**, Bhargav Korrapati, Gaurav Rajavendra Reddy, Jiang Hu, Yiran Chen, and Dipto G. Thakurta, "PatternPaint: Practical Layout Pattern Generation Using Diffusion-Based Inpainting," *62nd ACM/IEEE Design Automation Conference (DAC)*, San Francisco, June 22-25, 2025.
+  - [**DAC'25**] **Guanglei Zhou**, Bhargav Korrapati, Gaurav Rajavendra Reddy, Chen-Chia Chang, Jingyu Pan, Jiang Hu, Yiran Chen, and Dipto G. Thakurta, "PatternPaint: Practical Layout Pattern Generation Using Diffusion-Based Inpainting," *62nd ACM/IEEE Design Automation Conference (DAC)*, San Francisco, June 22-25, 2025.
 
   - [**SPIE'25**] **Guanglei Zhou**, Bhargav Korrapati, Gaurav Rajavendra Reddy, Junyao Zhang, Yiran Chen, and Dipto G. Thakurta, "Vario: Enhance Pattern Diversity using Diffusion Model," *SPIE Advanced Lithography + Patterning*, San Jose, Feb. 23-27, 2025.
 
