@@ -25,9 +25,9 @@ Guanglei Zhou is a Ph.D. candidate in computer engineering in Duke ECE Departmen
 - *2016.09 - 2020.06*, B.ENG in ECE at CityU. -->
 
 # 💻 Experiences
-- *2025.05 - 2025.08*, CAD Research Intern in [Intel Corp.](https://semiconductor.samsung.com/us/about-us/us-office/us-r-and-d-labs/memory-labs/), Hillsboro, Oregon, USA.
-- *2024.05 - 2024.08*, CAD Research Intern in [Intel Corp.](https://semiconductor.samsung.com/us/about-us/us-office/us-r-and-d-labs/memory-labs/),  Hillsboro, Oregon, USA.
-- *2023.05 - 2023.08*, CAD Research Intern in [Intel Corp.](https://semiconductor.samsung.com/us/about-us/us-office/us-r-and-d-labs/memory-labs/), Hillsboro, Oregon, USA.
+- *2025.05 - 2025.08*, CAD Research Intern in Intel Corp., Hillsboro, Oregon, USA.
+- *2024.05 - 2024.08*, CAD Research Intern in Intel Corp., Hillsboro, Oregon, USA.
+- *2023.05 - 2023.08*, CAD Research Intern in Intel Corp., Hillsboro, Oregon, USA.
 
   
 # 📝 Publications 
