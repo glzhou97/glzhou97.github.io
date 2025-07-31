@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Guanglei Zhou is a Ph.D. candidate in computer engineering in Duke ECE Department under the supervision of [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen). He received his M.A.Sc degree in UofT ECE department under the supervision of [Prof. Jason Anderson](https://janders.eecg.utoronto.ca/). He received B.ENG from CityU HK in 2020. His research interests focus on machine learning applicataions in Electronic Design Automation, especially using generative methods.
+Guanglei Zhou is a Ph.D. candidate in computer engineering in the Duke ECE Department under the supervision of [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen). He received his M.A.Sc. degree in the UofT ECE department under the supervision of [Prof. Jason Anderson](https://janders.eecg.utoronto.ca/). He received his B.ENG from CityU HK in 2020. His research interests focus on machine learning applications in Electronic Design Automation, especially post-training techniques in generative methods like Large Language Models (LLMs) and Diffusion Models.
+
 
 <!-- # 📖 Educations
 - *2020.08 - Present*, Ph.D. candidate in Computer Engineering at Duke University, Durham, NC, USA.
