@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Guanglei Zhou is a Ph.D. candidate in computer engineering in the Duke ECE Department under the supervision of [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen). He received his M.A.Sc. degree in the UofT ECE department under the supervision of [Prof. Jason Anderson](https://janders.eecg.utoronto.ca/). He received his B.ENG from CityU HK in 2020. His research interests focus on machine learning applications in Electronic Design Automation, especially post-training techniques in generative methods like Large Language Models (LLMs) and Diffusion Models.
+Guanglei Zhou is a Ph.D. candidate in computer engineering in the Duke ECE Department under the supervision of [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen). He received his M.A.Sc. degree in the UofT ECE department under the supervision of [Prof. Jason Anderson](https://janders.eecg.utoronto.ca/). He received his B.ENG from CityU HK in 2020. His research interests focus on machine learning applications in Electronic Design Automation, especially post-training techniques in generative methods like Large Language Models (LLMs) and Diffusion Models. 
 
 
 <!-- # 📖 Educations
@@ -57,6 +57,17 @@ Guanglei Zhou is a Ph.D. candidate in computer engineering in the Duke ECE Depar
 - ## Survey
   - "[A Survey: Collaborative Hardware and Software Design in the Era of Large Language Models](https://ieeexplore.ieee.org/abstract/document/10876858)". *IEEE Circuits and Systems Magazine ( Volume: 25, Issue: 1, 2025).*
   - "[A Survey of Research in Large Language Models for Electronic Design Automation](https://dl.acm.org/doi/full/10.1145/3715324)". *ACM Transactions on Design Automation of Electronic Systems ( Volume: 30, Issue: 3, 2025).*
+
+# 🏆 Honors and Awards
+*   **DATE Best Paper Nomination**, DATE Conference, 2025
+*   **3rd place, SRC CADT Anneal Poster Competition**, Semiconductor Research Corporation (SRC), 2024
+*   **Design Automation Conference (DAC) Young Fellow**, Design Automation Conference (DAC), 2023 & 2025
+*   **Edward S. Rogers Sr. Graduate Scholarship**, University of Toronto, 2020, 2021
+*   **HKSAR Government Scholarship (Top 1%)**, HKSAR Government, 2018, 2019
+*   **HKSAR, China – APEC Scholarship (Top 1%)**, HKSAR Government, 2019
+*   **CENG Dean’s Scholarships (Top 5 in College)**, College of Engineering, CityU, 2019
+*   **Gold Peak Group Scholarships**, Gold Peak Group & CityU, 2018
+*   **Jockey Club Harmony Hall Scholarships**, The Hong Kong Jockey Club & CityU, 2017
 
 
 # 👨‍💼 Services
