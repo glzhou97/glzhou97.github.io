@@ -40,9 +40,9 @@ Guanglei Zhou is a Ph.D. candidate in computer engineering in the Duke ECE Depar
 
   - [**ICCAD'25**] **Guanglei Zhou**, Chen-Chia Chang, Junyao Zhang, Jingyu Pan, and Yiran Chen, "[Diffusion-Model-Enhanced Layout Pattern Generation for Sub-3nm DFM](https://jpan.me/files/ICCAD25_Diffusion_DFM.pdf)," *2025 IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, Oct. 26-30, 2025, pp. 1-7. (*Invited Paper*) [[DOI](https://doi.org/10.1109/ICCAD66269.2025.11240639)]
 
-  - [**DAC'25**] **Guanglei Zhou**, Bhargav Korrapati, Gaurav Rajavendra Reddy, Chen-Chia Chang, Jingyu Pan, Jiang Hu, Yiran Chen, and Dipto G. Thakurta, "PatternPaint: Practical Layout Pattern Generation Using Diffusion-Based Inpainting," *62nd ACM/IEEE Design Automation Conference (DAC)*, San Francisco, June 22-25, 2025.
+  - [**DAC'25**] **Guanglei Zhou**, Bhargav Korrapati, Gaurav Rajavendra Reddy, Chen-Chia Chang, Jingyu Pan, Jiang Hu, Yiran Chen, and Dipto G. Thakurta, "[PatternPaint: Practical Layout Pattern Generation Using Diffusion-Based Inpainting](https://doi.org/10.1109/DAC63849.2025.11132857)," *62nd ACM/IEEE Design Automation Conference (DAC)*, San Francisco, June 22-25, 2025.
 
-  - [**SPIE'25**] **Guanglei Zhou**, Bhargav Korrapati, Gaurav Rajavendra Reddy, Junyao Zhang, Yiran Chen, and Dipto G. Thakurta, "Vario: Enhance Pattern Diversity using Diffusion Model," *SPIE Advanced Lithography + Patterning*, San Jose, Feb. 23-27, 2025.
+  - [**SPIE'25**] **Guanglei Zhou**, Bhargav Korrapati, Gaurav Rajavendra Reddy, Junyao Zhang, Yiran Chen, and Dipto G. Thakurta, "[Vario: Enhance Pattern Diversity using Diffusion Model](https://doi.org/10.1117/12.3049792)," *SPIE Advanced Lithography + Patterning*, San Jose, Feb. 23-27, 2025.
 
   - [**FPL'23**] **Guanglei Zhou**, Mirjana Stojilović, and Jason H. Anderson, "[GRAMM: Fast CGRA Application Mapping Based on A Heuristic for Finding Graph Minors](https://ieeexplore.ieee.org/document/10296406)," *33rd International Conference on Field-Programmable Logic and Applications (FPL)*, Gothenburg, Sweden, 2023, pp. 305-310.
 
