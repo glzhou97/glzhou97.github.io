@@ -60,7 +60,7 @@ Guanglei Zhou is a Ph.D. candidate in computer engineering in the Duke ECE Depar
 
   - [**DATE'25**] Junyao Zhang, **Guanglei Zhou**, Feng Cheng, Jonathan Hao-Cheng Ku, Qi Ding, Jiaqi Gu, Hanrui Wang, Hai "Helen" Li, and Yiran Chen, "[qGDP: Quantum Legalization and Detailed Placement for Superconducting Quantum Computers](https://arxiv.org/abs/2411.02447)," *IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE)*, Lyon, France, Mar. 31–Apr. 02, 2025. (*Best Paper Nomination*)
 
-  - [**ASP-DAC'25**] Chen-Chia Chang, Wan-Hsuan Lin, Jingyu Pan, **Guanglei Zhou**, Zhiyao Xie, Jiang Hu, and Yiran Chen, "PRICING: Privacy-Preserving Circuit Data Sharing Framework for Lithographic Hotspot Detection," *28th Asia and South Pacific Design Automation Conference (ASP-DAC)*, Jan 20–23, 2025, Tokyo, Japan.
+  - [**ASP-DAC'25**] Chen-Chia Chang, Wan-Hsuan Lin, Jingyu Pan, **Guanglei Zhou**, Zhiyao Xie, Jiang Hu, and Yiran Chen, "[PRICING: Privacy-Preserving Circuit Data Sharing Framework for Lithographic Hotspot Detection](https://doi.org/10.1145/3658617.3697773)," *28th Asia and South Pacific Design Automation Conference (ASP-DAC)*, Jan 20–23, 2025, Tokyo, Japan.
 
   - [**MICRO'23**] Edward Hanson, Shiyu Li, **Guanglei Zhou**, Feng Cheng, Yitu Wang, Rohan Bose, Hai Li, and Yiran Chen, "[Si-Kintsugi: Towards Recovering Golden-Like Performance of Defective Many-Core Spatial Architectures for AI](https://dl.acm.org/doi/10.1145/3613424.3614278)," *IEEE/ACM International Symposium on Microarchitecture (MICRO)*, Toronto, Oct. 28–Nov. 01, 2023.
 
