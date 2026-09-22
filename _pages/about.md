@@ -84,4 +84,6 @@ Guanglei Zhou is a Ph.D. candidate in computer engineering in the Duke ECE Depar
 
 
 # 👨‍💼 Services
-- Reviewer of ICCAD TCAD.
+- **Technical Program Committee (TPC) Member**: IEEE/ACM Design, Automation and Test in Europe (DATE) 2027
+- **Conference Reviewer**: NeurIPS 2026, ICML 2026, ICCAD 2023
+- **Journal Reviewer**: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Frontiers of Computer Science
