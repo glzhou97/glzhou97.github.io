@@ -36,6 +36,8 @@ Guanglei Zhou is a Ph.D. candidate in computer engineering in the Duke ECE Depar
 
 - ## First-author papers
 
+  - [**ASP-DAC'27**] Chia-Tung Ho\*, Haoyu Yang\*, **Guanglei Zhou\***, Yoshi Nishi, Yaguang Li, Walker Turner, Cunxi Yu, Yiran Chen, and Brucek Khailany, "[SCALE: Self-Supervised Constraint-Aware Layout GEneration for Local P&R DRV Fixing at Advanced Nodes](https://arxiv.org/abs/2607.21850)," *32nd Asia and South Pacific Design Automation Conference (ASP-DAC)*, 2027. (\*Equal contribution)
+
   - [**MLCAD'26**] **Guanglei Zhou**, Chen-Chia Chang, Yikang Shen, Jonathan Ku, Isaac Jacobson, Jingyu Pan, Yiran Chen, and Xin Zhang, "EXPLORE: Exploration with Guided Search for Analog Topology Generation using Language Models," *8th ACM/IEEE International Symposium on Machine Learning for CAD (MLCAD)*, Jeju, South Korea, Sept. 7-9, 2026.
 
   - [**ICCAD'25**] **Guanglei Zhou**, Chen-Chia Chang, Junyao Zhang, Jingyu Pan, and Yiran Chen, "[Diffusion-Model-Enhanced Layout Pattern Generation for Sub-3nm DFM](https://jpan.me/files/ICCAD25_Diffusion_DFM.pdf)," *2025 IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, Oct. 26-30, 2025, pp. 1-7. (*Invited Paper*) [[DOI](https://doi.org/10.1109/ICCAD66269.2025.11240639)]
