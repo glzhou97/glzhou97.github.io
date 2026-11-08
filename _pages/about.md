@@ -17,19 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Guanglei Zhou is a Ph.D. candidate in computer engineering in the Duke ECE Department under the supervision of [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen). He received his M.A.Sc. degree in the UofT ECE department under the supervision of [Prof. Jason Anderson](https://janders.eecg.utoronto.ca/). He received his B.ENG from CityU HK in 2020. His research interests focus on machine learning applications in Electronic Design Automation, especially post-training techniques in generative methods including Large Language Models (LLMs) and Diffusion Models. 
+Guanglei Zhou is a Research Scientist at NVIDIA Research (ASIC & VLSI Group) in Santa Clara, CA. He received his Ph.D. in computer engineering from the Duke ECE Department in 2026 under the supervision of [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen). He received his M.A.Sc. degree in the UofT ECE department under the supervision of [Prof. Jason Anderson](https://janders.eecg.utoronto.ca/). He received his B.ENG from CityU HK in 2020. His research interests focus on machine learning applications in Electronic Design Automation, especially post-training techniques in generative methods including Large Language Models (LLMs) and Diffusion Models. 
 
 
-<!-- # 📖 Educations
-- *2020.08 - Present*, Ph.D. candidate in Computer Engineering at Duke University, Durham, NC, USA.
-- *2016.09 - 2022.09* M.A.Sc in Computer Engineering in University of Toronto, Toronto, ON, CA.
-- *2016.09 - 2020.06*, B.ENG in ECE at CityU. -->
+# 📖 Educations
+- *2022.09 - 2026.07*, Ph.D. in Computer Engineering, Duke University, Durham, NC, USA.
+- *2020.09 - 2022.09*, M.A.Sc. in Computer Engineering, University of Toronto, Toronto, ON, Canada.
+- *2016.09 - 2020.06*, B.ENG in Electronic and Communication Engineering, City University of Hong Kong, Hong Kong.
 
 # 💻 Experiences
-- *2025.02 - 2025.05*, Research Intern in NVIDIA Research (ASIC & VLSI Group), Santa Clara, CA, USA.
-- *2024.05 - 2024.08*, CAD Research Intern in Intel Corp., Hillsboro, Oregon, USA.
-- *2023.05 - 2023.08*, CAD Research Intern in Intel Corp., Hillsboro, Oregon, USA.
-- *2022.05 - 2022.08*, CAD Research Intern in Intel Corp., Hillsboro, Oregon, USA.
+- *2026.10 - Present*, Research Scientist in NVIDIA Research (ASIC & VLSI Group), Santa Clara, CA, USA.
+- *2026.02 - 2026.05*, Research Intern in NVIDIA Research (ASIC & VLSI Group), Santa Clara, CA, USA.
+- *2025.05 - 2025.08*, CAD Research Intern in Intel Corp., Hillsboro, Oregon, USA.
+- *2024.05 - 2024.11*, CAD Research Intern in Intel Corp., Hillsboro, Oregon, USA.
+- *2023.05 - 2023.11*, CAD Research Intern in Intel Corp., Hillsboro, Oregon, USA.
 
   
 # 📝 Publications 

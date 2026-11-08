@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Guanglei Zhou"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "A Ph.D. candidate in Computer Engineering at Duke University"
-  location         : "Durham, NC, USA"
-  employer         :
+  bio              : "Research Scientist at NVIDIA Research"
+  location         : "Santa Clara, CA, USA"
+  employer         : "NVIDIA Research"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=HtyVr9wAAAAJ&hl=en"
   email            : "guanglei.zhou@duke.edu"
