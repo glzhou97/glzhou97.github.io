@@ -61,6 +61,8 @@ Guanglei Zhou is a Research Scientist at NVIDIA Research (ASIC & VLSI Group) in 
 
   - [**TODAES'26**] Chen-Chia Chang, Wan-Hsuan Lin, Yikang Shen, **Guanglei Zhou**, Yiran Chen, and Xin Zhang, "[LaMAGIC: Advanced Circuit Formulations for Language-Model-based Topology Generation for Analog Integrated Circuits](https://doi.org/10.1145/3799428)," *ACM Transactions on Design Automation of Electronic Systems*, vol. 31, no. 5, Article 109, 21 pages, 2026.
 
+  - [**ICCAD'25**] Jingyu Pan, Isaac Jacobson, Zheng Zhao, Tung-Chieh Chen, **Guanglei Zhou**, Chen-Chia Chang, Vineet Rashingkar, and Yiran Chen, "[CROP: Circuit Retrieval and Optimization with Parameter Guidance using LLMs](https://arxiv.org/abs/2507.02128)," *2025 IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, Munich, Germany, Oct. 26-30, 2025. [[DOI](https://doi.org/10.1109/ICCAD66269.2025.11240643)]
+
   - [**DATE'25**] Junyao Zhang, **Guanglei Zhou**, Feng Cheng, Jonathan Hao-Cheng Ku, Qi Ding, Jiaqi Gu, Hanrui Wang, Hai "Helen" Li, and Yiran Chen, "[qGDP: Quantum Legalization and Detailed Placement for Superconducting Quantum Computers](https://arxiv.org/abs/2411.02447)," *IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE)*, Lyon, France, Mar. 31–Apr. 02, 2025. (*Best Paper Nomination*)
 
   - [**ASP-DAC'25**] Chen-Chia Chang, Wan-Hsuan Lin, Jingyu Pan, **Guanglei Zhou**, Zhiyao Xie, Jiang Hu, and Yiran Chen, "[PRICING: Privacy-Preserving Circuit Data Sharing Framework for Lithographic Hotspot Detection](https://doi.org/10.1145/3658617.3697773)," *28th Asia and South Pacific Design Automation Conference (ASP-DAC)*, Jan 20–23, 2025, Tokyo, Japan.
