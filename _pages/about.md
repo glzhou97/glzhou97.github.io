@@ -53,7 +53,7 @@ Guanglei Zhou is a Research Scientist at NVIDIA Research (ASIC & VLSI Group) in 
 
 - ## Co-author papers
 
-  - [**ICCAD'26**] I. Jacobson, Z. Zhao, R. Mehrotra, **G. Zhou**, V. Rashingkar, and Y. Chen, "DiffPower: GPU-Accelerated Differentiable Switching Power Analysis and Optimization," *2026 IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, San Jose, California, Nov. 8-12, 2026.
+  - [**ICCAD'26**] Isaac Jacobson, Zheng Zhao, Rashmi Mehrotra, **Guanglei Zhou**, Vineet Rashingkar, and Yiran Chen, "[DiffPower: GPU-Accelerated Differentiable Switching Power Analysis and Optimization](https://arxiv.org/abs/2608.03778)," *2026 IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, San Jose, California, Nov. 8-12, 2026.
 
   - [**MLCAD'26**] Runzhi Wang, Donghao Fang, **Guanglei Zhou**, Fenghua Wu, Yiran Chen, and Jiang Hu, "DREAM: Design-flow and RTL Enhancement via End-to-End LLM-Assisted Method," *8th ACM/IEEE International Symposium on Machine Learning for CAD (MLCAD)*, Jeju, South Korea, Sept. 7-9, 2026.
 
